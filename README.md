@@ -63,7 +63,7 @@ The dashboard provides actionable operational and revenue insights for pizza sto
 
 1. Clone or download this repository:
    ```bash
-   git clone <YOUR-REPOSITORY-URL>
+   git clone https://github.com/jeevaAj25/slice-ops-pizza-analytics.git
    ```
 2. Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
 3. Open `Pizza Sales Report.pbix` directly in Power BI Desktop to interact with the visualizations and inspect DAX measures.
